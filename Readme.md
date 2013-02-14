@@ -16,6 +16,7 @@ var data = $('html').ogp();
 // get the URLs
 var actions = data['email:action']; 
 var web_urls = data['email:action:web_url'];
+var apps = data['email:action:iosapp_url'];
 
 // creates JSON string
 var z = '['; 
