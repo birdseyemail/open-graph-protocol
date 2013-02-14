@@ -4,11 +4,9 @@ Open Graph Protocol email extensions
 Parsing out the OGP email actions
 ---------
 
-We recommend using the OGP jQuery plugin.
+We recommend using the [OGP jQuery](https://github.com/fiann/jquery.ogp) plugin.
 
-```https://github.com/fiann/jquery.ogp```
-
-Then Load the plugin along with jQuery and the below javascript to parse the OGP tags out. Easy.
+Then Load the plugin along with jQuery and the below javascript to parse the OGP tags out. Simple.
 
 ```javascript
 // parses the HTML
