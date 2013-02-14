@@ -8,7 +8,7 @@ We recommend using the OGP jQuery plugin.
 
 ```https://github.com/fiann/jquery.ogp```
 
-Them Load the plugin along with jQuery and the below javascript to parse the OGP tags out. Easy.
+Then Load the plugin along with jQuery and the below javascript to parse the OGP tags out. Easy.
 
 ```javascript
 // parses the HTML
